@@ -884,14 +884,14 @@ Designed and implemented the front-end of an interactive and dynamic website usi
 </div>
 <div class="right">
 <div class="fields">
-<form action="/" method="post" class="contact_form" id="contact_form" autocomplete="off">
+<form  action="https://formspree.io/f/mjvzblqg" method="POST" class="contact_form" id="contact_form" autocomplete="off">
 <div class="returnmessage" data-success="Your message has been received, We will contact you soon."></div>
 <div class="empty_notice"><span>Please Fill Required Fields</span></div>
 <div class="input_list">
 <ul>
-<li><input id="name" type="text" placeholder="Your Name" /></li>
-<li><input id="email" type="text" placeholder="Your Email" /></li>
-<li><input id="phone" type="number" placeholder="Your Phone" /></li>
+<li><input id="name" name="name" type="text" placeholder="Your Name" /></li>
+<li><input id="email" name="_replyto" name="email" type="text" placeholder="Your Email" /></li>
+<li><input id="phone" name="subject" type="number" placeholder="Your Phone" /></li>
 <li><input id="subject" type="text" placeholder="Subject" /></li>
 </ul>
 </div>
@@ -899,7 +899,7 @@ Designed and implemented the front-end of an interactive and dynamic website usi
 <textarea id="message" placeholder="Your message here"></textarea>
 </div>
 <div class="iknow_tm_button">
-<a id="send_message" href="#">Submit Now</a>
+<a id="send_message" value="Send" href="#">Submit Now</a>
 </div>
 
 </form>
