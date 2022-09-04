@@ -1,8 +1,4 @@
-/*
- * Copyright (c) 2021 Marketify
- * Author: Marketify
- * This file is made for CURRENT TEMPLATE
-*/
+
 
 /*------------------------------------------------------------------*/
 /*  NAV ANCHOR(ONE PAGE NAV PLUGIN)
