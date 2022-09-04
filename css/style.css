@@ -550,7 +550,7 @@ body.dark .loader_line:after{
 }
 .iknow_tm_hero .subtitle{
 	display: inline-block;
-	color:    #145b9c;               /* orange #ff451b; */
+	color:    #ff451b;               /* orange  */
 	font-size: 30px;
 	font-weight: 700;
 	margin-bottom: 5px;
@@ -582,7 +582,7 @@ body.dark .loader_line:after{
 .iknow_tm_video .circle{
 	width: 72px;
 	height: 72px;
-	background-color:#ff7575;  /* yellow #ffb324; */
+	background-color:#ffb324; /* yellow #ffb324; */
 	border-radius: 100%;
 	position: relative;
 }
@@ -666,7 +666,7 @@ body.dark .loader_line:after{
 	bottom: 24px;
 	left: 24px;
 	right:24px;
-	background-color: #ff7575;  /* yellow #ffb324; */
+	background-color: #ffb324; /* yellow #ffb324; */
 	z-index: -1;
 	transform: rotate(-50deg);
 	animation: animeRotate 13s linear 0s infinite alternate;
@@ -1068,7 +1068,7 @@ body.dark .loader_line:after{
 }
 .rounded_shapes .one .cls-1{
 	stroke: inherit;
-	fill: #145b9c;/* orange #ff451b; */
+	fill:#ff451b;/* orange #ff451b; */
 }
 .rounded_shapes .one .svg{
 	width: 20px;
@@ -1393,7 +1393,7 @@ body.dark .loader_line:after{
 	min-width: 47%;
 	left: -55px;
 	margin-top: 55px;
-	background-color:#145b9c;  /* orange #ff451b; */
+	background-color:#ff451b;  /* orange #ff451b; */
 	padding: 36px 40px 35px 40px;
 	z-index: 1;
 	border-radius: 15px;
@@ -1439,7 +1439,7 @@ body.dark .loader_line:after{
 }
 .iknow_tm_main_title span{
 	font-size: 21px;
-	color:#145b9c;  /* orange #ff451b; */
+	color:#ff451b; /* orange #ff451b; */
 	font-weight: 700;
 	display: inline-block;
 	margin-bottom: 6px;
@@ -1533,7 +1533,7 @@ body.dark .loader_line:after{
 	width: 8px;
 	height: 8px;
 	border-radius: 100%;
-	background-color:#145b9c;  /* orange #ff451b; */
+	background-color:#ff451b;  /* orange #ff451b; */
 	top: 50%;
 	left: 50%;
 	transform: translate(-50%,-50%);
@@ -1656,7 +1656,7 @@ body.dark .loader_line:after{
 	right: 100%;
 	bottom: -5px;
 	transition: all 2s cubic-bezier(0.165, 0.840, 0.440, 1.000);  /* IE 10+ */
-	color: #145b9c; /* orange #ff451b; */
+	color: #ff451b; /* orange #ff451b; */
 	font-family: "Poppins";
 }
 .progress_inner .background{
@@ -1751,7 +1751,7 @@ body.dark .loader_line:after{
 	top: 50%;
 	left: 50%;
 	transform: translate(-50%,-50%);
-	color: #145b9c; /* orange #ff451b; */
+	color: #ff451b; /* orange #ff451b; */
 	font-size: 30px;
 	font-weight: 400;
 }
@@ -1786,7 +1786,7 @@ body.dark .loader_line:after{
 	margin-right: 0px;
 }
 .iknow_tm_portfolio .portfolio_filter ul li a.current{
-	color:#145b9c;  /* orange #ff451b; */
+	color:#ff451b;  /* orange #ff451b; */
 }
 .iknow_tm_portfolio .portfolio_filter ul li a{
 	text-decoration: none;
@@ -1801,7 +1801,7 @@ body.dark .loader_line:after{
 	        transition: all .3s ease;
 }
 .iknow_tm_portfolio .portfolio_filter ul li a:hover{
-	color:#145b9c; #145b9c; /* orange #ff451b; */
+	color:#ff451b; /* orange #ff451b; */
 }
 .iknow_tm_portfolio .portfolio_list{
 	width: 100%;
@@ -2217,7 +2217,7 @@ body.dark .loader_line:after{
 	display: inline-block;
 	width: 107px;
 	height: 107px;
-	background-color:#ff7575; /* yellow #ffb324; */
+	background-color:#ffb324; /* yellow #ffb324; */
 	border-radius: 100%;
 	position: relative;
 	margin-bottom: 25px;
@@ -2377,12 +2377,12 @@ body.dark .loader_line:after{
 .iknow_tm_testimonials .testimonials_list .right .svg{
 	width: 50px;
 	height: 50px;
-	color:#ff7575;/* yellow #ffb324; */
+	color:#ffb324;/* yellow #ffb324; */
 }
 .iknow_tm_testimonials .owl-theme .owl-dots .owl-dot span{
 	width: 11px;
 	height: 11px;
-	background-color: #145b9c; /* orange #ff451b; */
+	background-color: #ff451b; /* orange #ff451b; */
 	position: relative;
 	margin: 0px 15px;
 }
@@ -2394,7 +2394,7 @@ body.dark .loader_line:after{
 	left: 1px;
 	right: 1px;
 	border-radius: 100%;
-	border: 2px solid #ff7575; /* yellow #ffb324; */
+	border: 2px solid #ffb324; /* yellow #ffb324; */
 	z-index: -1;
 	
 	-webkit-transition: all .5s ease;
@@ -2497,7 +2497,7 @@ body.dark .loader_line:after{
 }
 .iknow_tm_news .news_list ul li .details .category a{
 	text-decoration: none;
-	color: #145b9c; /* orange #ff451b; */
+	color: #ff451b; /* orange #ff451b; */
 	font-size: 16px;
 	font-weight: 700;
 }
@@ -2515,7 +2515,7 @@ body.dark .loader_line:after{
 	        transition: all .3s ease;
 }
 .iknow_tm_news .news_list ul li .details .title a:hover{
-	color:#145b9c;  /* orange #ff451b; */
+	color:#ff451b; /* orange #ff451b; */
 }
 .iknow_tm_news .news_informations{
 	display: none;
@@ -2624,7 +2624,7 @@ body.dark .loader_line:after{
 	height: 90px;
 	min-width: 90px;
 	border-radius: 100%;
-	background-color:#ff7575; /* yellow #ffb324; */
+	background-color:#ffb324; /* yellow #ffb324; */
 }
 .iknow_tm_contact .wrapper .left ul li .list_inner .icon .svg{
 	position: absolute;
@@ -2654,7 +2654,7 @@ body.dark .loader_line:after{
 	        transition: all .3s ease;
 }
 .iknow_tm_contact .wrapper .left ul li .list_inner .short span a:hover{
-	color:#145b9c; /* orange #ff451b; */
+	color:#ff451b; /* orange #ff451b; */
 }
 .iknow_tm_contact .wrapper .right{
 	width: 65%;
@@ -2779,7 +2779,7 @@ input[type=number] {
 	        transition: all .3s ease;
 }
 .iknow_tm_copyright .left a:hover{
-	color:#145b9c;  /* orange #ff451b; */
+	color:#ff451b; /* orange #ff451b; */
 }
 .iknow_tm_copyright .right ul{
 	margin: 0px;
@@ -2803,7 +2803,7 @@ input[type=number] {
 	        transition: all .3s ease;
 }
 .iknow_tm_copyright .right ul li a:hover{
-	color: #145b9c; /* orange #ff451b; */
+	color: #ff451b; /* orange #ff451b; */
 }
 .iknow_tm_copyright.fixed{
 	position: fixed;
@@ -2850,7 +2850,7 @@ input[type=number] {
 }
 .iknow_tm_hero_second .subtitle{
 	display: inline-block;
-	color: #145b9c; /* orange #ff451b; */
+	color: #ff451b; /* orange #ff451b; */
 	font-size: 30px;
 	font-weight: 700;
 	margin-bottom: 5px;
@@ -2917,7 +2917,7 @@ input[type=number] {
 .iknow_tm_hero_second .right .image .first{
 	width: 90px;
 	height: 90px;
-	background-color: #145b9c; /* orange #ff451b; */
+	background-color: #ff451b; /* orange #ff451b; */
 	top: 20px;
 	left: -5px;
 	transform: rotate(42deg);
@@ -2926,7 +2926,7 @@ input[type=number] {
 .iknow_tm_hero_second .right .image .second{
 	width: 105px;
 	height: 152px;
-	background-color:#ff7575; /* yellow #ffb324; */
+	background-color:#ffb324;/* yellow #ffb324; */
 	bottom: -5px;
 	left: -25px;
 	z-index: 2;
@@ -2934,7 +2934,7 @@ input[type=number] {
 .iknow_tm_hero_second .right .image .third{
 	width: 165px;
 	height: 365px;
-	background-color: #ff7575;/* yellow #ffb324; */
+	background-color: #ffb324;/* yellow #ffb324; */
 	top: -30px;
 	right: -30px;
 }
@@ -3005,10 +3005,10 @@ input[type=number] {
 	        transition: all .3s ease;
 }
 .iknow_tm_extra_menu .list_in .list_icon{
-	background-color: #145b9c; /* orange #ff451b; */
+	background-color: #ff451b; /* orange #ff451b; */
 }
 .iknow_tm_extra_menu .list_in .down_icon{
-	background-color:#ff7575; /* yellow #ffb324; */
+	background-color:#ffb324; /* yellow #ffb324; */
 }
 .iknow_tm_extra_menu .list_in .center{
 	width: 100%;
@@ -3070,11 +3070,11 @@ input[type=number] {
 }
 .iknow_tm_extra_menu .menu_list .unordered .unorderest_li.opened .list_in .list_icon,
 .iknow_tm_extra_menu .menu_list .unordered .unorderest_li .list_in:hover .list_icon{
-	background-color:#ff7575; /* yellow #ffb324; */
+	background-color:#ffb324; /* yellow #ffb324; */
 }
 .iknow_tm_extra_menu .menu_list .unordered .unorderest_li.opened .list_in .center,
 .iknow_tm_extra_menu .menu_list .unordered .unorderest_li .list_in:hover .center{
-	background-color:#145b9c; /* orange #ff451b; */
+	background-color:#ff451b; /* orange #ff451b; */
 }
 .iknow_tm_extra_menu .menu_list .unordered .unorderest_li.opened .list_in .center span,
 .iknow_tm_extra_menu .menu_list .unordered .unorderest_li .list_in:hover .center span{
@@ -3163,7 +3163,7 @@ input[type=number] {
 .iknow_tm_fixed_content .menubar ul li .svg{
 	width: 27px;
 	height: 27px;
-	color:#145b9c;  /* orange #ff451b; */
+	color:#ff451b; /* orange #ff451b; */
 	position: absolute;
 	top: 50%;
 	transform: translateY(-50%);
@@ -3511,7 +3511,7 @@ input[type=number] {
   width: 6px;
   height: 6px;
   z-index: 100;
-  background-color: #145b9c; /* orange #ff451b; */
+  background-color: #ff451b; /* orange #ff451b; */
   -webkit-transition: width .3s ease-in-out, height .3s ease-in-out, margin .3s ease-in-out, opacity .3s ease-in-out;
   transition: width .3s ease-in-out, height .3s ease-in-out, margin .3s ease-in-out, opacity .3s ease-in-out;
 }
@@ -3520,7 +3520,7 @@ input[type=number] {
   margin-top: -40px;
   width: 80px;
   height: 80px;
-  background-color: #145b9c; /* orange #ff451b; */
+  background-color: #ff451b; /* orange #ff451b; */
   opacity: .3;
 }
 .cursor-outer {
@@ -3528,7 +3528,7 @@ input[type=number] {
   margin-top: -15px;
   width: 30px;
   height: 30px;
-  border: 2px solid #145b9c; /* orange #ff451b; */
+  border: 2px solid #ff451b; /* orange #ff451b; */
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
   z-index: 100;
@@ -3632,7 +3632,7 @@ input[type=number] {
 	color: #222;
 }
 .iknow_tm_sidebar_2 .menu ul li.mleave.active .svg{
-	color: #145b9c; /* orange #ff451b; */
+	color: #ff451b; /* orange #ff451b; */
 }
 .iknow_tm_sidebar_2 .menu ul li .svg{
 	width: 27px;
@@ -3910,7 +3910,7 @@ input[type=number] {
 	background-color: #ffb324;
 }
 .iknow_tm_button.yellow a:hover{
-	background-color: #145b9c; /* orange #ff451b; */
+	background-color:#ff451b; /* orange #ff451b; */
 }
 
 /*---------------------------------------------------*/
@@ -3987,7 +3987,7 @@ input[type=number] {
 	bottom: 10px;
 	border-radius: 20px;
 	border-radius: 50px;
-	background-color:#ff7575; /* yellow #ffb324; */
+	background-color:#ffb324; /* yellow #ffb324; */
 	z-index: -1;
 	
 	-webkit-transition: all .5s ease;
@@ -4199,15 +4199,15 @@ input[type=number] {
 	width: 100%;
 }
 .iknow_tm_sidebar_3 .menu ul li.current span{
-	color: #145b9c; /* orange #ff451b; */
+	color: #ff451b; /* orange #ff451b; */
 }
 .iknow_tm_sidebar_3 .menu ul li:hover span{
-	color:#145b9c; /* orange #ff451b; */
+	color:#ff451b;/* orange #ff451b; */
 }
 .iknow_tm_sidebar_3 .menu ul li .svg{
 	width: 25px;
 	height: 25px;
-	color:#145b9c; /* orange #ff451b; */
+	color:#ff451b; /* orange #ff451b; */
 	position: absolute;
 	left: 40px;
 }
@@ -4279,7 +4279,7 @@ input[type=number] {
 }
 .iknow_tm_hero_third .content .hello{
 	font-weight: 700;
-	color:#145b9c;  /* orange #ff451b; */
+	color:#ff451b; /* orange #ff451b; */
 	font-size: 26px;
 	display: inline-block;
 	margin-bottom: 2px;
@@ -4405,7 +4405,7 @@ input[type=number] {
 }
 .iknow_tm_hero_fourth .content .right .hello{
 	font-weight: 700;
-	color: #145b9c; /* orange #ff451b; */
+	color: #ff451b; /* orange #ff451b; */
 	font-size: 26px;
 	display: inline-block;
 	margin-bottom: 2px;
@@ -4532,7 +4532,7 @@ input[type=number] {
 }
 .iknow_tm_hero_fifth .hello{
 	font-weight: 700;
-	color:#145b9c;  /* orange #ff451b; */
+	color:#ff451b;  /* orange #ff451b; */
 	font-size: 26px;
 	display: inline-block;
 	margin-bottom: 2px;
@@ -4618,7 +4618,7 @@ input[type=number] {
 .iknow_tm_mainpart_new_2 .main_menu ul li .svg{
 	width: 25px;
 	height: 25px;
-	color: #145b9c; /* orange #ff451b; */
+	color: #ff451b; /* orange #ff451b; */
 	display: block;
 	
 	-webkit-transition: all .3s ease;
@@ -4656,7 +4656,7 @@ input[type=number] {
 	color: #fff;
 }
 .iknow_tm_mainpart_new_2 .main_menu ul li.current{
-	background-color: #145b9c; /* orange #ff451b; */
+	background-color: #ff451b; /* orange #ff451b; */
 }
 
 /*---------------------------------------------------*/
@@ -4693,7 +4693,7 @@ input[type=number] {
 	position: absolute;
 	top: -5px;
 	right: -65px;
-	color: #145b9c; /* orange #ff451b; */
+	color: #ff451b; /* orange #ff451b; */
 	font-weight:700;
 	font-size: 20px;
 }
@@ -4738,7 +4738,7 @@ input[type=number] {
 .iknow_tm_intro .demo ul li .name .name_in .new{
 	position: absolute;
 	display: inline-block;
-	background-color:#145b9c; /* orange #ff451b; */
+	background-color:#ff451b; /* orange #ff451b; */
 	color: #fff;
 	font-size: 14px;
 	font-weight: 600;
@@ -4796,7 +4796,7 @@ input[type=number] {
 	        transition: all .3s ease;
 }
 .iknow_tm_intro .demo ul li .list_inner .in:hover .mini{
-	color:#145b9c;  /* orange #ff451b; */
+	color:#ff451b;  /* orange #ff451b; */
 }
 .iknow_tm_intro .coming h3{
 	color: rgba(181,181,181,1.00);
